@@ -69,6 +69,6 @@ highlight_name: true
 
 I am a PhD candidate at UW-Madison {{< staticref "https://wisionlab.cs.wisc.edu/" "newtab" >}}Wision Lab{{< /staticref >}}, advised by {{< staticref "https://wisionlab.cs.wisc.edu/people/mohit-gupta/" "newtab" >}}Professor Mohit Gupta{{< /staticref >}}. My research interests lie in computational vision and computational imaging.
 
-My PhD work focuses on solving geometry, motion-related computer vision problems using novel computational cameras. For example, how can we accurately recover minucule motion of objects? How can we take a clear, sharp image of a extremely dark and moving scene? I develop novel solutions to these problems using light field cameras, structured light and single-photon cameras.
+My PhD work focuses on solving geometry, motion-related computer vision problems using novel computational cameras. For example, how can we accurately recover minuscule motion of objects? How can we take a clear, sharp image of a extremely dark and moving scene? I develop novel solutions to these problems using light field cameras, structured light and single-photon cameras.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

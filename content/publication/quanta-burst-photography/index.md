@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://wisionlab.cs.wisc.edu/wp-content/uploads/2020/06/quanta_burst_photography_wision.pdf"
 url_code:
 url_dataset:
 url_poster:
-url_project: 
+url_project: https://wisionlab.cs.wisc.edu/project/quanta-burst-photography/
 url_slides:
 url_source:
-url_video:
+url_video: "https://www.youtube.com/watch?v=Mk9XGiND0xE"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

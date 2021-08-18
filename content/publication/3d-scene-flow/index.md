@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://wisionlab.cs.wisc.edu/wp-content/uploads/2018/07/SceneFlow_ECCV_2018.pdf
+url_code: https://github.com/sizhuom/LFSceneFlow
 url_dataset:
 url_poster:
-url_project:
-url_slides:
+url_project: https://wisionlab.cs.wisc.edu/project/lfsceneflow/
+url_slides: https://wisionlab.cs.wisc.edu/wp-content/uploads/2018/09/eccv18_final.pptx
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=AtG0oyfnn6M
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
