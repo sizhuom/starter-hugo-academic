@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "3D Scene Flow from 4D Light Field Gradients"
-summary: "(ECCV 2018 oral presentation, selected for IJCV Special Issue on Best of ECCV) Recover high-precision dense scene flow from light fields"
+summary: "<br />**ECCV 2018 oral presentation**, selected for **IJCV Special Issue on Best of ECCV**<br />
+Recover high-precision dense scene flow from light fields"
 authors: []
 tags: []
 categories: []

@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Quanta Burst Photography"
-summary: "(SIGGRAPH 2020) A computational imaging technique with single-photon cameras enables ultra-low light photography"
+summary: "<br />**SIGGRAPH 2020**  <br />
+A computational imaging technique with single-photon cameras enables ultra-low light photography"
 authors: []
 tags: []
 categories: []

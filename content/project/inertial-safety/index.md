@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Inertial Safety from Structured Light"
-summary: "(ECCV 2020) A novel scene representation that enables fast detection of obstacles in scenarios involving camera or scene motion using single-shot structured light"
+summary: "<br>**ECCV 2020** <br>
+A novel scene representation that enables fast detection of obstacles in scenarios involving camera or scene motion using single-shot structured light"
 authors: []
 tags: []
 categories: []
