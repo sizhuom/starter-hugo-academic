@@ -6,15 +6,15 @@ title: Sizhuo Ma
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Wisconsin-Madison
-  url: https://wisionlab.cs.wisc.edu/
+- name: Snap Research
+  url: https://research.snap.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision and computational imaging.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Computer Sciences
     institution: University of Wisconsin-Madison
-    year: 2021 (Expected)
+    year: 2022 
   - course: MS in Computer Sciences
     institution: University of Wisconsin-Madison
     year: 2016
@@ -67,7 +67,7 @@ email: "sizhuoma@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD candidate at UW-Madison {{< staticref "https://wisionlab.cs.wisc.edu/" "newtab" >}}Wision Lab{{< /staticref >}}, advised by {{< staticref "https://wisionlab.cs.wisc.edu/people/mohit-gupta/" "newtab" >}}Professor Mohit Gupta{{< /staticref >}}. My research interests lie in computer vision and computational imaging.
+I am a Research Scientist at {{< staticref "https://research.snap.com" "newtab" >}}Snap Research{{< /staticref >}}. My research interests lie in computer vision and computational imaging. I received my PhD in Computer Sciences at UW-Madison, advised by {{< staticref "https://wisionlab.cs.wisc.edu/people/mohit-gupta/" "newtab" >}}Professor Mohit Gupta{{< /staticref >}}. 
 
 My PhD work focuses on solving geometry, motion-related computer vision problems using novel computational cameras. For example, how can we accurately recover minuscule motion of objects? How can we take a clear, sharp image of a extremely dark and moving scene? I develop novel solutions to these problems using light field cameras, structured light and single-photon cameras.
 

@@ -49,6 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**February 2022:** I joined Snap Research as a Research Scientist!
+
+**December 2021:** I passed my PhD oral defense! Thanks everyone for their support!
 
 **December 2020:** I received 2020 [Snap Research Fellowship](https://research.snap.com/news/detail/2020-snap-research-fellows/)!
 
