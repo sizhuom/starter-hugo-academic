@@ -7,7 +7,7 @@ A novel scene representation that enables fast detection of obstacles in scenari
 authors: []
 tags: []
 categories: []
-date: 2019-08-14T14:48:10-05:00
+date: 2020-08-14T14:48:10-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://wisionlab.cs.wisc.edu/project/inertial-safety-from-structured-light/"
