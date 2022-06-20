@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project: https://wisionlab.cs.wisc.edu/project/quanta-burst-photography/
-url_slides:
+url_slides: "https://wisionlab.cs.wisc.edu/wp-content/uploads/2020/06/QuantaBurstPhotography.pptx"
 url_source:
 url_video: "https://www.youtube.com/watch?v=Mk9XGiND0xE"
 
