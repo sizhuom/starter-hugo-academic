@@ -7,7 +7,7 @@ A computational imaging technique with single-photon cameras enables ultra-low l
 authors: []
 tags: []
 categories: []
-date: 2021-07-08
+date: 2020-07-08
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://wisionlab.cs.wisc.edu/project/quanta-burst-photography/"
