@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**June 2022** I will attend CVPR 2022 in New Orleans, LA.
+**June 2022:** I will attend CVPR 2022 in New Orleans, LA.
 
 **May 2022:** I received 2022 [Outstanding Graduate-Student Research Award](https://www.cs.wisc.edu/2022-cs-department-awards-and-thank-yous/)! Thanks for everyone who has collaborated with me or supported my research.
 
