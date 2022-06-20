@@ -7,7 +7,7 @@ Structured light 3D imaging enabled at extreme speeds and challenging scenarios 
 authors: []
 tags: []
 categories: []
-date: 2021-07-08
+date: 2022-06-19
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://wisionlab.com/project/single-photon-sl/"
