@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**November 2022:** One paper conditionally accepted at MobiCom 2023!
+# **November 2022:** One paper conditionally accepted at MobiCom 2023!
 
 **October 2022:** One paper accepted at WACV 2023!
 
