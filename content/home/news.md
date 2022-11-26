@@ -49,8 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# **November 2022:** One paper conditionally accepted at MobiCom 2023!
-
 **October 2022:** One paper accepted at WACV 2023!
 
 **June 2022:** I will attend CVPR 2022 in New Orleans, LA.
