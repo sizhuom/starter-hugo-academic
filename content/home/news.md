@@ -49,7 +49,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**October 2022:** One paper accepted at WACV 2023!
+**April 2023:** One paper accepted to MobiCom 2023!
+
+**Februrary 2023:** One paper accepted to CVPR 2023!
+
+**October 2022:** One paper accepted to WACV 2023!
 
 **June 2022:** I will attend CVPR 2022 in New Orleans, LA.
 
