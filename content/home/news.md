@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**May 2023:** One paper accepted to SIGGRAPH 2023!
+
 **April 2023:** One paper accepted to MobiCom 2023!
 
 **Februrary 2023:** One paper accepted to CVPR 2023!

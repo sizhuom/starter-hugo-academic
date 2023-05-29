@@ -69,6 +69,6 @@ highlight_name: true
 
 I am a Research Scientist at {{< staticref "https://research.snap.com" "newtab" >}}Snap Research{{< /staticref >}}. My research interests lie in computer vision and computational imaging. I received my PhD in Computer Sciences at UW-Madison, advised by {{< staticref "https://wisionlab.cs.wisc.edu/people/mohit-gupta/" "newtab" >}}Professor Mohit Gupta{{< /staticref >}}. 
 
-My PhD work focuses on solving geometry, motion-related computer vision problems using novel computational cameras. For example, how can we accurately recover minuscule motion of objects? How can we take a clear, sharp image of a extremely dark and moving scene? I develop novel solutions to these problems using light field cameras, structured light and single-photon cameras.
+{{< staticref "https://wisionlab.com/project/resolving-motion-with-single-photon-cameras/" "newtab" >}}My PhD work{{< /staticref >}} focuses on solving geometry, motion-related computer vision problems using novel computational cameras. For example, how can we accurately recover minuscule motion of objects? How can we take a clear, sharp image of a extremely dark and moving scene? I develop novel solutions to these problems using light field cameras, structured light and single-photon cameras.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_sizhuo_ma.pdf" "newtab" >}}CV{{< /staticref >}}.
