@@ -40,7 +40,7 @@ url_pdf: https://sizhuom.github.io/project-qfar/static/pdf/MOBICOM_2023___QfaR.p
 url_code: 
 url_dataset:
 url_poster:
-url_project: 
+url_project: https://sizhuom.github.io/project-qfar/
 url_slides: 
 url_source:
 url_video: 
