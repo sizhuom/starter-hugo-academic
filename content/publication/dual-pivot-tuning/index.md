@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Personalized Restoration via Dual-Pivot Tuning"
-authors: ["Pradyumna Chari", "Sizhuo Ma", "Daniil Ostashev", "Achuta Kadambi", "Gurunandan Krishnan", "Jian Wang*", "Kfir Aberman"]
+authors: ["Pradyumna Chari", "Sizhuo Ma", "Daniil Ostashev", "Achuta Kadambi", "Gurunandan Krishnan", "Jian Wang", "Kfir Aberman"]
 date: 2023-12-13
 doi: ""
 

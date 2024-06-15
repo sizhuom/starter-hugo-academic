@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation"
-authors: ["Zhihang Zhong", "Gurunandan Krishnan", "Xiao Sun", "Yu Qiao", "Sizhuo Ma*", "Jian Wang*"]
+authors: ["Zhihang Zhong", "Gurunandan Krishnan", "Xiao Sun", "Yu Qiao", "Sizhuo Ma", "Jian Wang"]
 date: 2023-12-14
 doi: ""
 

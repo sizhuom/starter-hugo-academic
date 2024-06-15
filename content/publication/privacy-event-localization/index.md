@@ -3,7 +3,7 @@
 
 title: "Privacy-Preserving Visual Localization with Event Cameras"
 authors: ["Junho Kim", "Young Min Kim", "Yicheng Wu", "Ramzi Zahreddine",
-"Weston A. Welge", "Gurunandan Krishnan", "Sizhuo Ma*", "Jian Wang*"]
+"Weston A. Welge", "Gurunandan Krishnan", "Sizhuo Ma", "Jian Wang"]
 date: 2022-12-13
 doi: ""
 

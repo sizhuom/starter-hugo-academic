@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Energy-Efficient Adaptive 3D Sensing"
-authors: ["Brevin Tilmon", "Zhanghao Sun", "Sanjeev Koppal", "Yicheng Wu", "Georgios Evangelidis", "Ramzi Zahreddine", "Guru Krishnan", "Sizhuo Ma*", "Jian Wang*"]
+authors: ["Brevin Tilmon", "Zhanghao Sun", "Sanjeev Koppal", "Yicheng Wu", "Georgios Evangelidis", "Ramzi Zahreddine", "Guru Krishnan", "Sizhuo Ma", "Jian Wang"]
 date: 2023-02-27
 doi: ""
 
