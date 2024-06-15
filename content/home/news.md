@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**June 2024:** I will attend CVPR 2024 in Seattle, WA.
+
 **May 2023:** One paper accepted to SIGGRAPH 2023!
 
 **April 2023:** One paper accepted to MobiCom 2023!
