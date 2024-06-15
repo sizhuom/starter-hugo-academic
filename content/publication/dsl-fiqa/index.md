@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Energy-Efficient Adaptive 3D Sensing"
-authors: ["Brevin Tilmon", "Zhanghao Sun", "Sanjeev Koppal", "Yicheng Wu", "Georgios Evangelidis", "Ramzi Zahreddine", "Guru Krishnan", "Sizhuo Ma*", "Jian Wang*"]
-date: 2023-02-27
+title: "DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer"
+authors: ["Wei-Ting Chen", "Gurunandan Krishnan", "Qiang Gao", "Sy-Yen Kuo", "Sizhuo Ma", "Jian Wang"]
+date: 2024-06-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-02-27
+publishDate: 2024-06-15
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2023-02-27
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR 2023"
+publication: "CVPR 2024"
 publication_short: ""
 
 abstract: ""
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://btilmon.github.io/pubs/CVPR_2023_Energy_Efficient_Adaptive_3D_Sensing.pdf"
-url_code: https://github.com/btilmon/holoCu
+url_pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_DSL-FIQA_Assessing_Facial_Image_Quality_via_Dual-Set_Degradation_Learning_and_CVPR_2024_paper.pdf"
+url_code: ""
 url_dataset:
 url_poster:
-url_project: https://btilmon.github.io/e3d.html
+url_project: "https://dsl-fiqa.github.io/"
 url_slides: 
 url_source:
-url_video: https://btilmon.github.io/pubs/CVPR23_E3D_compressed.mp4
+url_video: "https://youtu.be/7jDzj-CBvbQ?si=fwICsHrRQyfZIZru"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

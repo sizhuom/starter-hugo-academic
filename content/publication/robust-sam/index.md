@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "/uploads/Swing_for_True_Scale__ISMAR_2023_.pdf"
+url_pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.pdf"
 url_code: "https://github.com/robustsam/RobustSAM"
 url_dataset:
 url_poster:
