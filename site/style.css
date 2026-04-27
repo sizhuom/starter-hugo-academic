@@ -118,6 +118,13 @@ h2 {
   object-fit: contain;
 }
 
+.thumb.placeholder {
+  background:
+    linear-gradient(135deg, rgba(23, 100, 166, 0.08) 25%, transparent 25%) 0 0 / 18px 18px,
+    linear-gradient(135deg, transparent 75%, rgba(23, 100, 166, 0.08) 75%) 0 0 / 18px 18px,
+    #f8f9fb;
+}
+
 .paper-text p,
 .paper-text h3 {
   margin: 0;
