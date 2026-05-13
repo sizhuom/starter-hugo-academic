@@ -360,20 +360,8 @@
     </section>
 
     <footer>
-      <p id="last-modified">Last modified</p>
+      <p id="last-modified">Last modified: May 13, 2026</p>
     </footer>
   </main>
-
-  <script>
-    const modified = new Date(document.lastModified);
-    if (!Number.isNaN(modified.getTime())) {
-      document.getElementById('last-modified').textContent =
-        'Last modified: ' + modified.toLocaleDateString('en-US', {
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric'
-        });
-    }
-  </script>
 </body>
 </html>

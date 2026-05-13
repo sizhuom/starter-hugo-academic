@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+set -eu
+
+scripts/update-last-modified.sh
+git add site/index.html

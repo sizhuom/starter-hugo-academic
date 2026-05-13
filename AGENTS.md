@@ -38,6 +38,14 @@ This repository hosts Sizhuo Ma's personal research website.
 - The production branch is `master`.
 - After a PR is merged, continue work on `master` and pull the latest changes before editing.
 - Netlify should not need a build command for this static site.
+- The footer's `Last modified` date is intentionally static in `site/index.html`; do not switch it back to `document.lastModified`, because that reflects browser/deploy file metadata rather than the commit date.
+- A tracked pre-commit hook in `.githooks/pre-commit` runs `scripts/update-last-modified.sh` and stages `site/index.html` so the footer date updates on each commit.
+- Git hook configuration is local to each clone. On a new machine, enable the tracked hook once with:
+
+```bash
+git config core.hooksPath .githooks
+```
+
 - Keep `netlify.toml` minimal:
 
 ```toml
@@ -71,4 +79,3 @@ foreach ($ref in $refs) {
   }
 }
 ```
-
